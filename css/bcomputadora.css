@@ -1,6 +1,21 @@
 body{
     background-color: rgb(243, 153, 50);
+a { 
+    color: white;
+    padding: 20px;
+    border: white solid 3px;
+    border-radius: 30px;
+    text-decoration: none;
+}
+a:hover {
+    background-color: #a0a0a0;
+    transition: 0.3s;
+}
 
+.boton-atras-li {
+    margin: 30px;
+    list-style: none;
+}
 h1 {
     font-family: 'Times New Roman', 'Roboto', 'Open Sans', sans-serif;
     font-size: 50px;

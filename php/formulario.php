@@ -30,7 +30,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <link rel="stylesheet" type="text/css" href="../css/bcomputadora.css">
 </head>
 <body>
-    <a href="../index.html">ATRAS</a>
+    <li class="boton-atras-li"> <a href="../index.html">ATRAS</a></li>
     <h2>Agregar computadora</h2>
     <form method="post" action="">
 <select name="tipo_computadora" required>
