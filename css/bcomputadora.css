@@ -1,0 +1,118 @@
+body{
+    background-color: rgb(243, 153, 50);
+
+h1 {
+    font-family: 'Times New Roman', 'Roboto', 'Open Sans', sans-serif;
+    font-size: 50px;
+    background-color: #ffd000;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 25px;         
+    margin: 20px auto; 
+    border: 3px solid black;
+}
+h2 {
+        font-family: 'Times New Roman', 'Roboto', 'Open Sans', sans-serif;
+    font-size: 50px;
+    background-color: #ffd000;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 25px;         
+    margin: 20px auto; 
+    border: 3px solid black;
+}
+.boton-opciones-a {
+    color: rgb(0, 0, 0);
+    font-size: 25px;    
+    background-color: #ffd000;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 25px;
+    margin: 20px auto;
+    border: 3px solid black;
+    margin-bottom: 10px;
+    transition: all 0.3s ease;
+}
+.boton-opciones-b {
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    background-color:#ffd000;
+    padding: 10px;
+    border-radius: 25px;         
+    margin: 20px auto; 
+    border: 3px solid black;
+    text-decoration: black;
+    display: inline-block;
+    transition: all 0.3s ease;
+}
+.boton-opciones-c {
+    background-color:#ffd000;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 25px;         
+    margin: 20px auto; 
+    border: 3px solid black;
+    text-decoration: black;
+    display: inline-block;
+    transition: all 0.3s ease;
+}
+.boton-opciones-d {
+    background-color: #ffd000;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 25px;         
+    margin: 20px auto; 
+    border: 3px solid black;
+    text-decoration: black;
+    display: inline-block;
+    transition: all 0.3s ease;
+}
+.boton-opciones-a:hover {
+    background-color: #a0a0a0;
+    transform: scale(1.08);
+    color: black;
+}
+.boton-opciones-b:hover {
+    background-color: #a0a0a0;
+    transform: scale(1.08);
+    color: black;
+}
+.boton-opciones-c:hover {
+    background-color: #a0a0a0;
+    transform: scale(1.08);
+    color: black;
+}
+.boton-opciones-d:hover {
+    background-color: #a0a0a0;
+    transform: scale(1.08);
+    color: black;
+}
+}
+select{background-color: #ffd000;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 25px;         
+    margin: 20px auto; 
+    border: 3px solid black;
+    text-decoration: black;
+
+}
+label{
+background-color: #ffd000;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 0px;         
+    border: 3px solid black;
+    text-decoration: black;
+}
